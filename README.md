@@ -28,14 +28,14 @@
 
 那就根据上幅编程语言受众趋势图列出相应语言的流行开源项目
 
-- [JavaScript](javascript.md)
-- [Java](java.md)
-- [Ruby](ruby.md)
-- [PHP](php.md)
-- [Python](python.md)
-- [C/C++](c-c_plus.md)
-- [C#/Obj-C](obj-c.md)
-- [Perl](perl.md)
+- [JavaScript](language/javascript.md)
+- [Java](language/java.md)
+- [Ruby](language/ruby.md)
+- [PHP](language/php.md)
+- [Python](language/python.md)
+- [C/C++](language/c-c_plus.md)
+- [C#/Obj-C](language/obj-c.md)
+- [Perl](language/perl.md)
 
 #### 第二块、流行开发框架对应的流行开源项目
 开发框架其实范围很广，在这里罗列出当前比较流行的开发过程：
@@ -44,8 +44,11 @@
 - [JS Framework](js-framework.md)
 
 #### 第三块、如何有效使用Github经验谈
-这块内容没有一定的标准，完全根据自己的实际经验总结得到，欢迎各位更正
+这块内容没有一定的标准，完全根据自己的实际经验总结得到，来自[知乎](http://www.zhihu.com/)提问，欢迎各位更正
 
 1. [如何有效阅读Github上开源项目代码？](http://www.zhihu.com/question/26480537)
+2. [新手该如何使用GitHub？](http://www.zhihu.com/question/21669554)
+3. [怎样使用 GitHub？](http://www.zhihu.com/question/20070065)
+4. [GitHub 为什么讨人喜欢？](http://www.zhihu.com/question/19776649)
 
 
