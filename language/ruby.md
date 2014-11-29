@@ -1,2 +1,1 @@
 1. [ruby-china](https://github.com/ruby-china/ruby-china) - ruby-china.org website source code. http://ruby-china.org
-2. 
