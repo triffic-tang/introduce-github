@@ -2,5 +2,5 @@
 2. [angular.js](https://github.com/angular/angular.js) - http://angularjs.org
 3. [highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter http://highlightjs.org/
 4. [my.js](https://github.com/hax/my.js) - All js be my js --- The ultimate JavaScript module solution
-5. 
+5. [mermai](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
 
