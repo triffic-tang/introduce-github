@@ -5,4 +5,4 @@
 5. [mermai](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown.
 6. [regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer. 
 7. [io.js](https://github.com/iojs/io.js) - Evented IO for V8 JavaScript
-8. [react.js](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.  
+8. [react.js](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript -library for building user interfaces.  
