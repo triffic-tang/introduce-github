@@ -22,7 +22,7 @@
 
 #### 第一块、流行开发语言对应的流行开源项目
 根据[RedMonk](http://redmonk.com/dberkholz/2014/05/02/github-language-trends-and-the-fragmenting-landscape/)公司通过收集Github上的数据分析了近几年编程语言的受众度。得到如下图所示:
-> 图片所有权归属RedMonk公司
+> 图片所有权归属RedMonk公司.
 
 ![Code](/images/code-rank-2.png)
 
