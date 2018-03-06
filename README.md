@@ -44,7 +44,7 @@
 - [JS Framework](js-framework.md)
 
 #### 第三块、如何有效使用Github经验谈
-这块内容没有一定的标准，完全根据自己的实际经验总结得到，来自[知乎](http://www.zhihu.com/)提问，欢迎各位更正
+这块内容没有一定的标准，完全根据自己的经验总结得到，来自[知乎](http://www.zhihu.com/)提问，欢迎各位更正
 
 1. [如何有效阅读Github上开源项目代码？](http://www.zhihu.com/question/26480537)
 2. [新手该如何使用GitHub？](http://www.zhihu.com/question/21669554)
